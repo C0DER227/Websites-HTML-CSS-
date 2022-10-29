@@ -31,6 +31,7 @@ nav ul li{
 }
 a{
     text-decoration: none;
+    color: black;
 }
 .search{
     height: 30px;
