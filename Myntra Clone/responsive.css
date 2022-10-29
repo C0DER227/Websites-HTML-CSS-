@@ -1,0 +1,15 @@
+@media screen and (max-height:900px){
+  body{
+    background-color: whitesmoke;
+  }
+  h1{
+    text-align: start;
+    padding: auto;
+  }
+  .line{
+    text-align: center;
+  }
+  .footer{
+    text-align: center;
+  }
+}

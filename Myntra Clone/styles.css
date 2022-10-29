@@ -1,0 +1,87 @@
+body{
+    background-color: lightgoldenrodyellow;
+    height: 100%;
+    width: 100%;
+}
+.logo{
+    height: 34px;
+    width: 42px;
+    padding: 0 12px;
+    margin: 15px;
+    cursor: pointer;
+}
+.container{
+    display: flex;
+}
+.left{
+    display: flex;
+    position: relative;
+    right: 40px;
+}
+.right{
+    display: flex;
+    position: relative;
+    right: 15px;
+}
+
+
+nav ul li{
+    list-style: none;
+    padding: 0 12px;;
+}
+a{
+    text-decoration: none;
+}
+.search{
+    height: 30px;
+    width: 600px;
+    justify-content: center;
+    position: relative;
+    top: 10px;
+    right: 20px;
+}
+main{
+    background-color: whitesmoke;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.item1{
+     display: flex;
+     justify-content: center;
+}
+h1{
+    padding: 0 33px;
+}
+.images1,.images2{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    cursor: pointer;
+}
+.line{
+    display: flex;
+    justify-content: space-evenly;
+}
+.discounts1,.discounts2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ending{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.prof,.wishlist,.bag{
+    height: 25px;
+    width: 40px;
+    cursor: pointer;
+}
+.srch{
+    height: 33px;
+    width: 45px;
+    position: relative;
+    top: 15px;
+    right: 20px;
+    cursor: pointer;
+}
