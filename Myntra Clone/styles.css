@@ -52,6 +52,9 @@ main{
 h1{
     padding: 0 33px;
 }
+.slider{
+    width: 100%;
+}
 .images1,.images2{
     height: 200px;
     width: 100%;
