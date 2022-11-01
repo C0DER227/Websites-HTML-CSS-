@@ -1,0 +1,182 @@
+body{
+    background-color: whitesmoke;
+}
+.logo{
+    color: blue;
+    cursor: pointer;
+}
+nav ul{
+    display:flex;
+    justify-content: flex-end;
+    gap: 48px;
+}
+.nav-list:hover{
+    text-decoration: underline;
+    color: blue;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style: none;
+}
+.btn{
+    background-color: blue;
+    width: 20vh;
+    height: 10vh;
+    border-radius: 5%;
+
+}
+.btn a{
+    color: #fff;
+}
+.btn:hover{
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.btclogo{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    bottom: 42vh;
+    right: 52vh;
+}
+h4{
+   position: relative;
+   left: 32px;
+   bottom: 50vh;
+}
+.space{
+    color: blue;
+}
+.forv{
+    position: relative;
+    bottom: 50vh;
+}
+h4:hover{
+    text-decoration: underline;
+}
+.email{
+    height: 50px;
+    width: 250px;
+}
+.emailbtn{
+    width: 20vh;
+    height: 10vh;
+    background-color: blue;
+    color: #fff;
+    cursor: pointer;
+}
+table{
+    position: relative;
+    bottom: 50vh;
+    padding-left: 5%;
+    border: 1px solid black;
+}
+tr{
+    border: 0.6px solid black;
+}
+.tblbtn{
+    background-color: green;
+    height: 7vh;
+    width: 14vh;
+    cursor: pointer;
+}
+.change{
+    color: red;
+    cursor: pointer;
+}
+.prot{
+    position: relative;
+    top: 8vh;
+    text-align: center;
+}
+.layer2{
+    position: relative;
+    top: 20vh;
+}
+.slide1{
+    height: 75vh;
+    width: 50vh;
+    position: relative;
+    left: 125vh;
+}
+.mob{
+    color: blue;
+}
+.slide2{
+    height: 100vh;
+    width: 80vh;
+    position: relative;
+    left: 95vh;
+    bottom: 50vh;
+}
+.manage{
+    height: 50px;
+    width: 50px;
+}
+.vault{
+    height: 50px;
+    width: 50px;
+}
+.mobl{
+    height: 50px;
+    width: 50px;
+}
+.trop{
+    text-align: center;
+    position: relative;
+    bottom: 30vh;
+}
+.plat{
+    position: relative;
+    bottom:20vh;
+    left: 20vh;
+    text-align: center;
+}
+
+.learnm{
+    color: blue;
+}
+.container{
+    display: flex;
+}
+.users{
+    background-color: blue;
+    color: #fff;
+    position: relative;
+    bottom: 20vh;
+    left: 15vh;
+}
+.trot{
+    text-align: center;
+}
+.starting{
+    position: relative;
+    top: 20px;
+    left: 20px;
+
+}
+.startng{
+    height: 25px;
+    width: 25px;
+    padding: 0 8px;
+}
+.deco{
+    color: blue;
+}
+
+.foot{
+    text-align: center;
+    background-color: black;
+    color: blue;
+    cursor: pointer;
+}
+.btf{
+    color: whitesmoke;
+}
+.btf:hover{
+    text-decoration: underline;
+    color: blue;
+}
