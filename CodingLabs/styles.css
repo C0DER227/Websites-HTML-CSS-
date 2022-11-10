@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url('images/codinglab.jpg');
+    background-size: cover;
+}
+h1{
+    color: #fff;
+    padding: 2.5vh;
+    margin: auto 0;
+    cursor: pointer;
+}
+h1:hover{
+    color: #F24C4C
+}
+.nav-list{
+    display: flex;
+    justify-content: flex-end;
+    gap: 15vh;
+    color: #fff;
+}
+.active{
+    background-color: rgb(28, 133, 75);
+}
+li{
+    list-style: none;
+    cursor: pointer;
+    font-size: 3.5vh;
+}
+li:hover{
+    text-decoration: underline;
+    color: crimson;
+}
+
+.container{
+    padding: 25vh;
+}
+button{
+    display: inline-block;
+    margin: 25px;
+}
+.btn{
+    height: 25vh;
+    width: 25vh;
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+    color: black;
+    cursor: pointer;
+}
+span{
+    color: #fff;
+}
+span:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: #FF6D28;
+}
