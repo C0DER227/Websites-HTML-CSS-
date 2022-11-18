@@ -13,6 +13,7 @@
     font-weight: bolder;
     font-size: 2rem;
     padding: 0.8rem;
+    color: black;
 }
 li{
     list-style: none;
@@ -31,7 +32,9 @@ li >a:hover{
     height: 40vh;
     width: 100vh;
 }
-
+h1{
+    color: grey;
+}
 .inner{
     display: flex;
     gap: 8vh;
@@ -72,6 +75,9 @@ h2{
     display: flex;
     justify-content: space-evenly;
     padding: 15vh;
+}
+.web3ri8{
+    color: black;
 }
 .pri8{
     color: black;
